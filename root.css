@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+:root{
+  --background--color:#1E1E1E;
+  --primary--font:#FFF;
+}
+
+
+body{
+  background-color: var(--background--color);
+  background-size: 100%;
+}
+
+* { 
+  color: var(--primary--font);
+  font-family: "Antonio", sans-serif;
+  margin: 0;
+}  

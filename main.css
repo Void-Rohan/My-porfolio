@@ -1,0 +1,188 @@
+.experience h1 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.experience {
+  padding-top: 50px;
+}
+
+.item-1 {
+  position: relative;
+  bottom: 20px;
+}
+
+.item-2 {
+  position: relative;
+  top: 10px;
+}
+
+.item-3 {
+  position: relative;
+  left: 380px;
+  bottom: 65px;
+}
+
+.item-4 {
+  position: relative;
+  bottom: 8px;
+}
+
+.item-5 {
+  position: relative;
+  top: 30px;
+
+}
+
+.item-6 {
+  position: relative;
+  left: 360px;
+  bottom: 55px;
+}
+
+.item-7 {
+  position: relative;
+  top: 10px;
+}
+
+.item-8 {
+  position: relative;
+  top: 40px;
+}
+
+.item-9 {
+  position: relative;
+  left: 420px;
+  bottom: 40px;
+}
+
+.items-b {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top: 1px solid var(--primary--font);
+  border-bottom: 1px solid var(--primary--font);
+  width: 505px;
+
+}
+
+.expers-right {
+  padding: 30px 0px;
+}
+
+.container-2 {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  padding: 40px 100px;
+
+}
+
+.experience-container {
+  background: linear-gradient(270deg, rgba(255, 177, 71, 0.10) 5.74%, rgba(255, 108, 99, 0.10) 50.64%, rgba(184, 106, 223, 0.10) 92.05%);
+}
+
+.awards {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.awards strong {
+  font-size: 40px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.awards p {
+  color: rgba(255, 255, 255, 0.50);
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.mobile {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word
+}
+
+.ui-ux {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.50);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word
+}
+
+.my-portfolio {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.my-portfolio h1 {
+  font-size: 40px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  word-wrap: break-word
+}
+
+.my-portfolio span {
+  color: rgba(255, 255, 255, 0.50);
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.54px;
+  word-wrap: break-word
+}
+
+.button-1 h4 {
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px;
+  background: black;
+  border: 0.40px #545454 solid;
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+
+.button-2 h4 {
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px;
+  background: #FD6F00;
+  border: 0.40px #545454 solid;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  display: inline-flex;
+}
+
+.buttons{
+  display: flex;
+  justify-content:center;
+  margin-top: 50px;
+  gap: 50px;
+}
+.project-1{
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+.pro-image-2 img{
+  width: 400px;
+}
+.project-2{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  gap: 20px;
+}
+.project-container{
+  align-items: center;
+}

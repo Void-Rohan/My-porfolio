@@ -1,0 +1,115 @@
+.logo-image img {
+  width: 30%;
+  padding-left: 50px;
+}
+
+.home {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 20px;
+  margin-right: 100px;
+  align-items: center;
+}
+
+.home button {
+  color: var(--primary--font);
+  background-color: blueviolet;
+  width: 188px;
+  height: 52px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title-items {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+}
+
+.banner-desc span {
+  margin-top: 10px;
+  text-align: justify;
+  color: rgba(255, 255, 255, 0.50);
+  font-size: 18px;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.floated-desc span {
+  font-size: 24px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.hire-me img {
+  width: 367px;
+  height: 82px;
+  margin-top: 50px;
+}
+
+.sm-icons {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.banner-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rotated-elements {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+  font-size: larger;
+  border: 3px solid blueviolet;
+  border-style: ridge;
+  border-radius: 10px;
+}
+
+.about h1 {
+  margin-bottom: 20px;
+  font-size: 40px;
+  font-weight: 800;
+  text-align: left;
+
+}
+
+.about span {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+
+}
+
+.about-image img {
+  margin-bottom: 20px;
+}
+
+.about-image h1 {
+  font-size: 47px;
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+
+.about-image span {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.about-image {
+  text-align: right;
+}
+
+.about-me {
+  display: flex;
+  justify-content: space-between;
+  margin: 200px 100px;
+}
+
